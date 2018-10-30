@@ -19,7 +19,7 @@
 		"consoleError": "Error: Cannot perform an interactive login from a non TTY device",
 		"OS": "win",
 		"solves": [
-			"chenge terminal"
+			"change terminal"
 		]
 	},
 	{
