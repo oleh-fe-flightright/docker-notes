@@ -24,7 +24,7 @@
 	},
 	{
 		"consoleError": "denied: access forbidden",
-		"OS": "win, ios",
+		"OS": "win, mac",
 		"solves": [
 			"$ docker login registry.infra.flightright.net ",
 			"Pass as access token from gitLab, if not need to create. GitLab->Settings->AccessTokens"
