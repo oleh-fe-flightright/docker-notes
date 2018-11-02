@@ -29,5 +29,12 @@
 			"$ docker login registry.infra.flightright.net ",
 			"Pass as access token from gitLab, if not need to create. GitLab->Settings->AccessTokens"
 		]
+	},
+	{
+		"consoleError": "can not read directory/file etc...",
+		"OS": "win, mac",
+		"solves": [
+			"$ mvn clear install"
+		]
 	}
 ]
